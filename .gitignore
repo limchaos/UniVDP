@@ -1,0 +1,6 @@
+__pycache__/
+*.egg-info/
+checkpoints/*.pt
+training/datasets/
+training/feature_cache/
+training/logs_v2/

@@ -1,0 +1,12 @@
+{
+    "__comment": "Sampling of the network inputs. The released checkpoint was trained and evaluated with these values; changing them requires retraining.",
+    "position_grid": 16,
+    "keyframe_short_side": 1080,
+    "keyframe_cap_long_side": 1920,
+    "image_min_short_side": 384,
+    "clip_ms": 250.0,
+    "clip_pairs": 4,
+    "clip_short_side": 224,
+    "speed_quantile": 0.9,
+    "transient_warmup_ms": 250.0
+}
